@@ -1,0 +1,27 @@
+{
+  "name": "inline-chunk",
+  "version": "1.0.0",
+  "description": "webpack plugin，insert chunk code into html",
+  "main": "src/index.js",
+  "scripts": {
+    "pub": "yarn publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://empty916@github.com/empty916/inline-chunk.git"
+  },
+  "keywords": [
+    "webpack",
+    "html-webpack-plugin",
+    "inline"
+  ],
+  "author": "empty916@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/empty916/inline-chunk/issues"
+  },
+  "homepage": "https://github.com/empty916/inline-chunk#readme",
+  "devDependencies": {
+    "source-map-url": "^0.4.0"
+  }
+}
